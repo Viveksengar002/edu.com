@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+    .banner-text{
+        top:-50px;
+    }   
+    .overlay-text{
+        top: 180px;
+        position: absolute;
+        margin: 0px ;
+    }
+    .banner-head{
+        margin-top: 310px;
+    }
+
+    #about-thumb p{
+        padding: 0px;
+    }

@@ -1,0 +1,33 @@
+@media (max-width: 600px) {
+    .banner-text {
+        top: -50px;
+    }
+
+    .overlay-text {
+        top: 180px;
+        position: absolute;
+        margin: 0px;
+    }
+
+    .banner-head {
+        margin-top: 310px;
+    }
+
+    .newsletter-content-wrap {
+        background: url(images/search-back.webp);
+        border-radius: 10px;
+        width: 100%;
+        margin: 0 !important;
+        align-items: center;
+        padding: 0px !important;
+        background-size: cover;
+        background-position: 50%;
+        box-sizing: border-box;
+        height: 230px;
+        justify-content: space-between;
+    }
+
+    .btn-submit {
+        right: 15px !important;
+    }
+}
